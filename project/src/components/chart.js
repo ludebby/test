@@ -65,7 +65,7 @@ const horizonalLinePlugin = {
           yValue = 0;
         }
         ctx.lineWidth = 3;
-  ctx.lineWidth = 3;
+  		ctx.lineWidth = 3;
 
         if (yValue) {
           window.chart = chartInstance;

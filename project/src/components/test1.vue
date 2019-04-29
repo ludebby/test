@@ -7,7 +7,6 @@
 </template>
 <script>
 export default {
-  el: '#app',
   data () {
     return {
       msg: 'Welcome to Your '
